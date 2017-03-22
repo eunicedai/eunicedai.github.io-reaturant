@@ -1,0 +1,134 @@
+body{
+	width: 1150px;
+	background-color: #EFE9E7;
+}
+
+.wordmenu{
+	color: #3D1101;
+	width: 282px;
+	padding-left: 91px;
+	float: left;
+}
+.title{
+	font-size: 20px;
+	margin-top: 52px;
+}
+
+.list{
+	font-size: 16px;
+	line-height: 32px;
+	margin-right: 20px;
+}
+
+#all{
+	border-bottom: 1px solid gray;
+}
+
+#fries{
+	border-bottom: 1px solid black;
+}
+
+#burger{
+	background-color: #3D1101;
+	color: white;
+}
+.picmenu{
+	width: 750px;
+	float: right;
+	position: relative;
+}
+.classic{
+	width: 220px;
+	height: 280px;
+	margin-top: 106px;
+	background: #EFE9E7;
+	box-shadow: 3px 3px 4px 0px;
+	rgba(0,0,0,0.16);
+	text-align: center;
+	color: #3D1101;
+	float: left;
+	position: relative;
+}
+#classicp{
+	height: 120px;
+	width: 220px;
+}
+#ch{
+	margin-bottom: 35px;
+}
+#market{
+	color: #FF5E45;
+	border: 1px solid #FF5E45;
+	border-radius: 3px;
+	padding-right: 55px;
+	padding-left: 55px;
+
+}
+.handsome{
+	width: 220px;
+	height: 280px;
+	margin-top: 106px;
+	background: #EFE9E7;
+	box-shadow: 3px 3px 4px 0px;
+	rgba(0,0,0,0.16);
+	text-align: center;
+	color: #3D1101;
+	float:left;
+	margin-left: 25px;
+	position: relative;
+}
+#handsomep{
+	height: 120px;
+	width: 220px;
+}
+.brothers{
+	width: 220px;
+	height: 280px;
+	margin-top: 106px;
+	background: #EFE9E7;
+	box-shadow: 3px 3px 4px 0px;
+	rgba(0,0,0,0.16);
+	text-align: center;
+	color: #3D1101;
+	float:left;
+	margin-left: 25px;
+	position: relative;
+}
+#brothersp{
+	height: 120px;
+	width: 220px;
+
+}
+.wish{
+	width: 220px;
+	height: 280px;
+	margin-top: 106px;
+	background: #EFE9E7;
+	box-shadow: 3px 3px 4px 0px;
+	rgba(0,0,0,0.16);
+	text-align: center;
+	color: #3D1101;
+	float:left;
+	position: relative;
+}
+#wishp{
+	height: 120px;
+	width: 220px;
+}
+#heart{
+	position: absolute;
+	width: 15%;
+	top: 0;
+	left: 0;
+}
+#mark{
+	color: white;
+	background-color: #00CC99;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding-left: 10px;
+	font-size: 14px;
+	padding-right: 10px;
+}
